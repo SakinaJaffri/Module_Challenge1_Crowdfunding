@@ -6,7 +6,6 @@ This project analyzes a dataset of 1,000 crowdfunding campaigns to uncover marke
 ## Files
 - **Crowdfunding_Data.xlsx**: Contains the dataset of crowdfunding projects.
 - **Analysis_Report.docx**: A report summarizing key findings and insights.
-- **Crowdfunding_Analysis.ipynb**: A Jupyter Notebook for additional data processing (if applicable).
 - **README.md**: This file.
 
 ## Tasks and Methodology
